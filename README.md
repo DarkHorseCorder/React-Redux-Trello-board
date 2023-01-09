@@ -2,6 +2,8 @@
 
 A Trello board clone made with React + Redux
 
+![Trello Board](./Screenshot_1.png)
+
 ## Features
  - Create/delete columns
  - Create/delete cards
